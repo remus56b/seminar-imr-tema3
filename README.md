@@ -1,4 +1,5 @@
 # Tema 3
+# Echipa: Bacaoanu Remus, Cernat George Lucian 
 
 Folosind Blender (sau orice tool de modelare/animatie 3D care va este la indemana)
 
